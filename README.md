@@ -1,7 +1,7 @@
 ## Henlo, I'm Almendra ✨
 
 💻 Computer Systems Engineering graduate specialized in app development.<br>
-🎮 Passionate about self-learning.</br>
+🧠 Passionate about self-learning.</br>
 🌐 Currently building web applications with Ruby on Rails.</br>
 🌍 Native Spanish speaker, fluent in English.
 
